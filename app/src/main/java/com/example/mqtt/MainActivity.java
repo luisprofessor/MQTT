@@ -36,9 +36,9 @@ import static android.Manifest.permission.WAKE_LOCK;
 import static android.Manifest.permission.WRITE_EXTERNAL_STORAGE;
 
 public class MainActivity extends AppCompatActivity {
-private String HTTPHOST="tcp://hairdresser.cloudmqtt.com:15748";
-private String USER="zdusolfi";
-private String PASSWORD="3yKpP2M-Bszl";
+private String HTTPHOST="tcp://M10.cloudmqtt.com:15748";
+private String USER="KSLKSKS";
+private String PASSWORD="SKLSKS";
 private MqttAndroidClient client;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
